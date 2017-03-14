@@ -1,0 +1,59 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.martinsk.se" resolutions="1x" timestamp="1489523056754">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="3791610522" ref="index"/>
+    <file name="iefonts_index.css" crc="4207017680" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="bounce-arrow.mulib" crc="4293315299" seo="true" mt="1450632524000"/>
+    <file name="header.gif" crc="423088830" seo="true" mt="1489492472000"/>
+    <file name="cover.png" crc="3870384191" seo="true" mt="1479134964000"/>
+    <file name="bus-stop-billboard-mockup.png" crc="4192973635" seo="true" mt="1479133305000"/>
+    <file name="logo-kit.jpg" crc="126608856" seo="true" mt="1446220837000"/>
+    <file name="business-card-mock-up-vol-22.jpg" crc="4087963512" seo="true" mt="1479131443000"/>
+    <file name="olofson-optik-ll.png" crc="4061504122" seo="true" mt="1489069444000"/>
+    <file name="office-mockup-freebie.png" crc="4239905751" seo="true" mt="1479208339000"/>
+    <file name="onstage.png" crc="3802999911" seo="true" mt="1430603403000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="form_check.php" crc="3805695515" ref="index"/>
+    <file name="form_throttle.php" crc="3802629389" ref="index"/>
+    <file name="form_process.php" crc="54267062" ref="index"/>
+    <file name="form-u2277.php" crc="464509541" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="landing.jpg" crc="396953211" seo="true" ref="index"/>
+    <file name="pasted-svg-551961x58.svg" crc="3986412856" ref="index"/>
+    <file name="pasted svg 551961x58_poster_.png" crc="3814238327" ref="index"/>
+    <file name="pasted-svg-1117982x115.svg" crc="4219232" ref="index"/>
+    <file name="pasted svg 1117982x115_poster_.png" crc="3895684479" ref="index"/>
+    <file name="pasted-svg-32x32.svg" crc="4192999532" ref="index"/>
+    <file name="pasted svg 32x32_poster_.png" crc="4291007205" ref="index"/>
+    <file name="pasted-svg-32x322.svg" crc="4111686697" ref="index"/>
+    <file name="pasted svg 32x32_poster_2.png" crc="4057534423" ref="index"/>
+    <file name="pasted-svg-32x323.svg" crc="3993735885" ref="index"/>
+    <file name="pasted svg 32x32_poster_3.png" crc="4106808274" ref="index"/>
+    <file name="pasted-svg-953963x123.svg" crc="3990339460" ref="index"/>
+    <file name="pasted svg 953963x123_poster_.png" crc="4192914042" ref="index"/>
+    <file name="avatar.jpg" crc="133621746" seo="true" ref="index"/>
+    <file name="pasted-svg-1981435x769.svg" crc="463233581" ref="index"/>
+    <file name="pasted svg 1981435x769_poster_.png" crc="245274417" ref="index"/>
+    <file name="pasted-svg-219637x58.svg" crc="180118959" ref="index"/>
+    <file name="pasted svg 219637x58_poster_.png" crc="263634313" ref="index"/>
+    <file name="pasted-svg-276729x58.svg" crc="3769460067" ref="index"/>
+    <file name="pasted svg 276729x58_poster_.png" crc="4136919169" ref="index"/>
+    <file name="pasted-svg-4385078x899.svg" crc="17923130" ref="index"/>
+    <file name="pasted svg 4385078x899_poster_.png" crc="102610630" ref="index"/>
+    <file name="u2292-17.png" crc="4054865085" ref="index"/>
+    <file name="u2292-17-r.png" crc="57068161" ref="index"/>
+    <file name="u2292-17-m.png" crc="3912874881" ref="index"/>
+    <file name="u2292-17-fs.png" crc="517567664" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4152728301" seo="true" mt="1489523032088" redirect="true"/>
+</manifest>
