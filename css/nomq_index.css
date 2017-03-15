@@ -10,38 +10,40 @@
 
 	#page
 	{
-		min-height: 1350px;
-		padding-bottom: 5583px;
+		min-height: 3915px;
+		padding-bottom: 486px;
 		max-width: 1920px;
 	}
 
-	#u94
+	#ppu94
 	{
+		margin-right: -10000px;
 		margin-top: 8px;
+		width: 118.23%;
+	}
+
+	#pu94
+	{
+		width: 84.59%;
 	}
 
 	#u96
 	{
-		margin-top: 370px;
+		margin-top: 362px;
 		width: 56.67%;
 		left: 21.67%;
 	}
 
 	#u98
 	{
-		margin-top: 548px;
+		margin-top: 540px;
 		width: 39.59%;
 		left: 30.21%;
 	}
 
-	#u97,#u99
-	{
-		width: 100%;
-	}
-
 	#u101
 	{
-		margin-top: 704px;
+		margin-top: 696px;
 		width: 14.02%;
 		left: 43.03%;
 	}
@@ -73,8 +75,139 @@
 	{
 		width: 40px;
 		min-height: 40px;
-		margin-top: 870px;
+		margin-top: 862px;
 		left: 48.96%;
+	}
+
+	#u3203
+	{
+		margin-top: 84px;
+		width: 42.16%;
+	}
+
+	#u3204
+	{
+		margin-bottom: 3.1347962382445136%;
+		width: 99.9%;
+	}
+
+	#pu3245
+	{
+		margin-top: 61px;
+		width: 96.3%;
+		margin-left: 3.71%;
+	}
+
+	#u3245
+	{
+		margin-top: 114px;
+		width: 87.84%;
+		left: 12.17%;
+	}
+
+	#u97,#u99,#u3246
+	{
+		width: 100%;
+	}
+
+	#u3247
+	{
+		width: 30.15%;
+	}
+
+	#u3615
+	{
+		padding-top: 67px;
+		padding-bottom: 170px;
+		margin-top: 96px;
+		position: relative;
+		width: 84.59%;
+	}
+
+	#u3624
+	{
+		width: 11.46%;
+		margin-left: 4.38%;
+	}
+
+	#u4188
+	{
+		width: 1500px;
+		padding-bottom: 0px;
+		margin-top: 68px;
+		margin-left: 10.94%;
+	}
+
+	#u3626,#u3630
+	{
+		width: 375px;
+		min-height: 375px;
+	}
+
+	#u3627,#u3631
+	{
+		width: 375px;
+		min-height: 375px;
+		left: 25%;
+	}
+
+	#u3628,#u3632
+	{
+		width: 375px;
+		min-height: 375px;
+		left: 50%;
+	}
+
+	#u3629,#u3633
+	{
+		width: 375px;
+		min-height: 375px;
+		left: 75%;
+	}
+
+	#u4581
+	{
+		width: 277px;
+		margin-top: 157px;
+		margin-left: 9.26%;
+	}
+
+	#u4583
+	{
+		width: 600px;
+		margin-top: 36px;
+		margin-left: 9.26%;
+	}
+
+	#u4584
+	{
+		margin-bottom: 41px;
+	}
+
+	#widgetu4585
+	{
+		margin-top: 3650px;
+		left: 1370px;
+	}
+
+	#u4601-17
+	{
+		background-image: url("../images/u4601-17.png");
+	}
+
+	#u4601-17:hover
+	{
+		background-image: url("../images/u4601-17-r.png");
+	}
+
+	#u4601-17:active
+	{
+		background-image: url("../images/u4601-17-m.png");
+	}
+
+	#widgetu4585.frm-sub-st #u4601-17
+	{
+		background-image: url("../images/u4601-17-fs.png");
 	}
 
 
