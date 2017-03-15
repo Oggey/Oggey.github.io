@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="martinsk.se" resolutions="1x" timestamp="1489538597943">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="martinsk.se" resolutions="1x" timestamp="1489539053074">
   <folder name="assets">
     <file name="cover.png" crc="3870384191" seo="true" mt="1479134964000"/>
     <file name="logo-kit.jpg" crc="126608856" seo="true" mt="1446220837000"/>
@@ -11,8 +11,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="3816058612" ref="index"/>
-    <file name="nomq_index.css" crc="4246471430" ref="index"/>
+    <file name="index.css" crc="4087230435" ref="index"/>
+    <file name="nomq_index.css" crc="427903615" ref="index"/>
     <file name="iefonts_index.css" crc="321525473" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -66,5 +66,5 @@
     <file name="u4601-17-m3.png" crc="3912874881" ref="index"/>
     <file name="u4601-17-fs3.png" crc="517567664" ref="index"/>
   </folder>
-  <file name="index.html" crc="3875951532" seo="true" mt="1489538394998" redirect="true"/>
+  <file name="index.html" crc="198514383" seo="true" mt="1489538961736" redirect="true"/>
 </manifest>
