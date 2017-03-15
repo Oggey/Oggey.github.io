@@ -1,74 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.martinsk.se/assets/bounce-arrow.mulib</loc>
-    <lastmod>2015-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.martinsk.se/assets/header.gif</loc>
-    <lastmod>2017-03-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.martinsk.se/assets/cover.png</loc>
-    <lastmod>2016-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.martinsk.se/assets/bus-stop-billboard-mockup.png</loc>
-    <lastmod>2016-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.martinsk.se/assets/logo-kit.jpg</loc>
-    <lastmod>2015-10-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.martinsk.se/assets/business-card-mock-up-vol-22.jpg</loc>
-    <lastmod>2016-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.martinsk.se/assets/olofson-optik-ll.png</loc>
-    <lastmod>2017-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.martinsk.se/assets/office-mockup-freebie.png</loc>
-    <lastmod>2016-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.martinsk.se/assets/onstage.png</loc>
-    <lastmod>2015-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.martinsk.se/images/landing.jpg</loc>
-    <lastmod>2017-03-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.martinsk.se/images/avatar.jpg</loc>
-    <lastmod>2017-03-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.martinsk.se/index.html</loc>
-    <lastmod>2017-03-14</lastmod>
+    <loc>http://martinsk.se/index.html</loc>
+    <lastmod>2017-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
