@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="martinsk.se" resolutions="1x" timestamp="1489538454238">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="martinsk.se" resolutions="1x" timestamp="1489538597943">
   <folder name="assets">
     <file name="cover.png" crc="3870384191" seo="true" mt="1479134964000"/>
     <file name="logo-kit.jpg" crc="126608856" seo="true" mt="1446220837000"/>
