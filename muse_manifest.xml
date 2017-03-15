@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="martinsk.se" resolutions="1x" timestamp="1489537656525">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="martinsk.se" resolutions="1x" timestamp="1489538194900">
   <folder name="assets">
     <file name="cover.png" crc="3870384191" seo="true" mt="1479134964000"/>
     <file name="logo-kit.jpg" crc="126608856" seo="true" mt="1446220837000"/>
@@ -11,8 +11,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="105569632" ref="index"/>
-    <file name="nomq_index.css" crc="231548973" ref="index"/>
+    <file name="index.css" crc="3797568997" ref="index"/>
+    <file name="nomq_index.css" crc="241092932" ref="index"/>
     <file name="iefonts_index.css" crc="321525473" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -29,23 +29,23 @@
   </folder>
   <folder name="images">
     <file name="pasted-svg-551961x58.svg" crc="3986412856" ref="index"/>
-    <file name="pasted svg 551961x58_poster_.png" crc="235830277" ref="index"/>
+    <file name="pasted svg 551961x58_poster_.png" crc="528431154" ref="index"/>
     <file name="pasted-svg-1117982x115.svg" crc="4219232" ref="index"/>
-    <file name="pasted svg 1117982x115_poster_.png" crc="51067657" ref="index"/>
+    <file name="pasted svg 1117982x115_poster_.png" crc="122105931" ref="index"/>
     <file name="pasted-svg-32x32.svg" crc="4192999532" ref="index"/>
-    <file name="pasted svg 32x32_poster_.png" crc="3849458714" ref="index"/>
+    <file name="pasted svg 32x32_poster_.png" crc="3826234293" ref="index"/>
     <file name="pasted-svg-32x322.svg" crc="4111686697" ref="index"/>
-    <file name="pasted svg 32x32_poster_2.png" crc="3977117137" ref="index"/>
+    <file name="pasted svg 32x32_poster_2.png" crc="4098312291" ref="index"/>
     <file name="pasted-svg-32x323.svg" crc="3993735885" ref="index"/>
-    <file name="pasted svg 32x32_poster_3.png" crc="143221435" ref="index"/>
-    <file name="landing-u94.png" crc="130025390" ref="index"/>
-    <file name="landing-u942.png" crc="100206370" ref="index"/>
-    <file name="landing-u943.png" crc="96018626" ref="index"/>
+    <file name="pasted svg 32x32_poster_3.png" crc="4079838771" ref="index"/>
+    <file name="landing-u94.png" crc="4005297043" ref="index"/>
+    <file name="landing-u942.png" crc="4246281119" ref="index"/>
+    <file name="landing-u943.png" crc="3933340711" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="pasted-svg-953963x123.svg" crc="3990339460" ref="index"/>
-    <file name="pasted svg 953963x123_poster_.png" crc="4274810626" ref="index"/>
+    <file name="pasted svg 953963x123_poster_.png" crc="3851687746" ref="index"/>
     <file name="pasted-svg-1981435x769.svg" crc="463233581" ref="index"/>
-    <file name="pasted svg 1981435x769_poster_.png" crc="4292179979" ref="index"/>
+    <file name="pasted svg 1981435x769_poster_.png" crc="4164907673" ref="index"/>
     <file name="avatar.jpg" crc="4033110315" seo="true" ref="index"/>
     <file name="pasted-svg-219637x58.svg" crc="180118959" ref="index"/>
     <file name="pasted svg 219637x58_poster_.png" crc="263634313" ref="index"/>
@@ -65,6 +65,11 @@
     <file name="u4601-17-r3.png" crc="57068161" ref="index"/>
     <file name="u4601-17-m3.png" crc="3912874881" ref="index"/>
     <file name="u4601-17-fs3.png" crc="517567664" ref="index"/>
+    <file name="landing-u944.png" crc="3815745697" ref="index"/>
+    <file name="u4601-174.png" crc="4054865085" ref="index"/>
+    <file name="u4601-17-r4.png" crc="57068161" ref="index"/>
+    <file name="u4601-17-m4.png" crc="3912874881" ref="index"/>
+    <file name="u4601-17-fs4.png" crc="517567664" ref="index"/>
   </folder>
-  <file name="index.html" crc="171042782" seo="true" mt="1489537638181" redirect="true"/>
+  <file name="index.html" crc="121679441" seo="true" mt="1489538173922" redirect="true"/>
 </manifest>
