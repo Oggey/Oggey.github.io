@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="whitelandingpage0.com" resolutions="1x" timestamp="1496168436017">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="martinsk.se" resolutions="1x" timestamp="1496170662537">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="241245515" ref="index"/>
+    <file name="index.css" crc="4013187240" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -18,10 +18,10 @@
     <file name="pasted svg 508043x57_poster_.png" crc="440522285" ref="index"/>
     <file name="pasted-svg-20044x174.svg" crc="4098749737" ref="index"/>
     <file name="pasted svg 20044x174_poster_.png" crc="23540420" ref="index"/>
-    <file name="pasted-svg-75x76.svg" crc="103198712" ref="index"/>
-    <file name="pasted svg 75x76_poster_.png" crc="3958474424" ref="index"/>
-    <file name="pasted-svg-75361x75.svg" crc="3795665459" ref="index"/>
-    <file name="pasted svg 75361x75_poster_.png" crc="97329216" ref="index"/>
+    <file name="pasted-svg-61812x61.svg" crc="247147192" ref="index"/>
+    <file name="pasted svg 61812x61_poster_.png" crc="4258568283" ref="index"/>
+    <file name="pasted-svg-97171x61.svg" crc="4088430657" ref="index"/>
+    <file name="pasted svg 97171x61_poster_.png" crc="84618257" ref="index"/>
   </folder>
-  <file name="index.html" crc="403290094" seo="true" mt="1496168383016" redirect="true"/>
+  <file name="index.html" crc="408747203" seo="true" mt="1496170585905" redirect="true"/>
 </manifest>
