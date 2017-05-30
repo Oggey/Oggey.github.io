@@ -1,70 +1,27 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="martinsk.se" resolutions="1x" timestamp="1489539200650">
-  <folder name="assets">
-    <file name="cover.png" crc="3870384191" seo="true" mt="1479134964000"/>
-    <file name="logo-kit.jpg" crc="126608856" seo="true" mt="1446220837000"/>
-    <file name="header.gif" crc="423088830" seo="true" mt="1489492472000"/>
-    <file name="bus-stop-billboard-mockup.png" crc="4192973635" seo="true" mt="1479133305000"/>
-    <file name="business-card-mock-up-vol-22.jpg" crc="4087963512" seo="true" mt="1479131443000"/>
-    <file name="olofson-optik-ll.png" crc="4061504122" seo="true" mt="1489069444000"/>
-    <file name="onstage.png" crc="3802999911" seo="true" mt="1430603403000"/>
-    <file name="office-mockup-freebie.png" crc="4239905751" seo="true" mt="1479208339000"/>
-  </folder>
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="whitelandingpage0.com" resolutions="1x" timestamp="1496168436017">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="4087230435" ref="index"/>
-    <file name="nomq_index.css" crc="427903615" ref="index"/>
-    <file name="iefonts_index.css" crc="321525473" ref="index"/>
+    <file name="index.css" crc="241245515" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
     <file name="museutils.js" crc="3790713428" ref="index"/>
     <file name="whatinput.js" crc="84559013" ref="index"/>
     <file name="jquery.watch.js" crc="4244854265" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
-    <file name="webpro.js" crc="329496574" ref="index"/>
-    <file name="form_check.php" crc="3805695515" ref="index"/>
-    <file name="form_throttle.php" crc="3802629389" ref="index"/>
-    <file name="form_process.php" crc="54267062" ref="index"/>
-    <file name="form-u4585.php" crc="3993757025" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="pasted-svg-551961x58.svg" crc="3986412856" ref="index"/>
-    <file name="pasted svg 551961x58_poster_.png" crc="235830277" ref="index"/>
-    <file name="pasted-svg-1117982x115.svg" crc="4219232" ref="index"/>
-    <file name="pasted svg 1117982x115_poster_.png" crc="51067657" ref="index"/>
-    <file name="pasted-svg-32x32.svg" crc="4192999532" ref="index"/>
-    <file name="pasted svg 32x32_poster_.png" crc="3849458714" ref="index"/>
-    <file name="pasted-svg-32x322.svg" crc="4111686697" ref="index"/>
-    <file name="pasted svg 32x32_poster_2.png" crc="3977117137" ref="index"/>
-    <file name="pasted-svg-32x323.svg" crc="3993735885" ref="index"/>
-    <file name="pasted svg 32x32_poster_3.png" crc="143221435" ref="index"/>
-    <file name="landing-u94.png" crc="121694659" ref="index"/>
-    <file name="landing-u942.png" crc="4234972383" ref="index"/>
-    <file name="landing-u943.png" crc="3953737319" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="pasted-svg-953963x123.svg" crc="3990339460" ref="index"/>
-    <file name="pasted svg 953963x123_poster_.png" crc="4274810626" ref="index"/>
-    <file name="pasted-svg-1981435x769.svg" crc="463233581" ref="index"/>
-    <file name="pasted svg 1981435x769_poster_.png" crc="4292179979" ref="index"/>
-    <file name="avatar.jpg" crc="4033110315" seo="true" ref="index"/>
-    <file name="pasted-svg-219637x58.svg" crc="180118959" ref="index"/>
-    <file name="pasted svg 219637x58_poster_.png" crc="263634313" ref="index"/>
-    <file name="pasted-svg-276729x58.svg" crc="3769460067" ref="index"/>
-    <file name="pasted svg 276729x58_poster_.png" crc="4136919169" ref="index"/>
-    <file name="pasted-svg-4385078x899.svg" crc="17923130" ref="index"/>
-    <file name="pasted svg 4385078x899_poster_.png" crc="102610630" ref="index"/>
-    <file name="u4601-17.png" crc="4054865085" ref="index"/>
-    <file name="u4601-17-r.png" crc="57068161" ref="index"/>
-    <file name="u4601-17-m.png" crc="3912874881" ref="index"/>
-    <file name="u4601-17-fs.png" crc="517567664" ref="index"/>
-    <file name="u4601-172.png" crc="4054865085" ref="index"/>
-    <file name="u4601-17-r2.png" crc="57068161" ref="index"/>
-    <file name="u4601-17-m2.png" crc="3912874881" ref="index"/>
-    <file name="u4601-17-fs2.png" crc="517567664" ref="index"/>
-    <file name="u4601-173.png" crc="4054865085" ref="index"/>
-    <file name="u4601-17-r3.png" crc="57068161" ref="index"/>
-    <file name="u4601-17-m3.png" crc="3912874881" ref="index"/>
-    <file name="u4601-17-fs3.png" crc="517567664" ref="index"/>
+    <file name="pasted-svg-90885x57.svg" crc="3809920126" ref="index"/>
+    <file name="pasted svg 90885x57_poster_.png" crc="3870573410" ref="index"/>
+    <file name="pasted-svg-594168x57.svg" crc="3822928526" ref="index"/>
+    <file name="pasted svg 594168x57_poster_.png" crc="62953965" ref="index"/>
+    <file name="pasted-svg-508043x57.svg" crc="188054971" ref="index"/>
+    <file name="pasted svg 508043x57_poster_.png" crc="440522285" ref="index"/>
+    <file name="pasted-svg-20044x174.svg" crc="4098749737" ref="index"/>
+    <file name="pasted svg 20044x174_poster_.png" crc="23540420" ref="index"/>
+    <file name="pasted-svg-75x76.svg" crc="103198712" ref="index"/>
+    <file name="pasted svg 75x76_poster_.png" crc="3958474424" ref="index"/>
+    <file name="pasted-svg-75361x75.svg" crc="3795665459" ref="index"/>
+    <file name="pasted svg 75361x75_poster_.png" crc="97329216" ref="index"/>
   </folder>
-  <file name="index.html" crc="198514383" seo="true" mt="1489538961736" redirect="true"/>
+  <file name="index.html" crc="403290094" seo="true" mt="1496168383016" redirect="true"/>
 </manifest>
