@@ -98,26 +98,26 @@ body
 
 a:link
 {
-	color: #0000FF;
-	text-decoration: underline;
+	color: #2A2C7A;
+	text-decoration: inherit;
 }
 
 a:visited
 {
-	color: #800080;
-	text-decoration: underline;
+	color: #2A2C7A;
+	text-decoration: inherit;
 }
 
 a:hover
 {
-	color: #0000FF;
-	text-decoration: underline;
+	color: #2A2C7A;
+	text-decoration: inherit;
 }
 
 a:active
 {
-	color: #EE0000;
-	text-decoration: underline;
+	color: #2A2C7A;
+	text-decoration: inherit;
 }
 
 a.nontext /* used to override default properties of 'a' tag */
@@ -126,6 +126,30 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 	font-style: normal;
 	font-weight: normal;
+}
+
+.ts-Default-Link-Style--copy a:link
+{
+	color: #0000FF;
+	text-decoration: inherit;
+}
+
+.ts-Default-Link-Style--copy a:visited
+{
+	color: #0000FF;
+	text-decoration: inherit;
+}
+
+.ts-Default-Link-Style--copy a:hover
+{
+	color: #FFFFFF;
+	text-decoration: inherit;
+}
+
+.ts-Default-Link-Style--copy a:active
+{
+	color: #0000FF;
+	text-decoration: inherit;
 }
 
 .normal_text

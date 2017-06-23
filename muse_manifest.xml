@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="martinsk.se" resolutions="1x" timestamp="1496170662537">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="martinsk.se" resolutions="1x" timestamp="1498226234587">
   <folder name="css">
-    <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="4013187240" ref="index"/>
+    <file name="site_global.css" crc="452424824"/>
+    <file name="index.css" crc="3965493056" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -10,18 +10,8 @@
     <file name="jquery.watch.js" crc="4244854265" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="pasted-svg-90885x57.svg" crc="3809920126" ref="index"/>
-    <file name="pasted svg 90885x57_poster_.png" crc="3870573410" ref="index"/>
-    <file name="pasted-svg-594168x57.svg" crc="3822928526" ref="index"/>
-    <file name="pasted svg 594168x57_poster_.png" crc="62953965" ref="index"/>
-    <file name="pasted-svg-508043x57.svg" crc="188054971" ref="index"/>
-    <file name="pasted svg 508043x57_poster_.png" crc="440522285" ref="index"/>
-    <file name="pasted-svg-20044x174.svg" crc="4098749737" ref="index"/>
-    <file name="pasted svg 20044x174_poster_.png" crc="23540420" ref="index"/>
-    <file name="pasted-svg-61812x61.svg" crc="247147192" ref="index"/>
-    <file name="pasted svg 61812x61_poster_.png" crc="4258568283" ref="index"/>
-    <file name="pasted-svg-97171x61.svg" crc="4088430657" ref="index"/>
-    <file name="pasted svg 97171x61_poster_.png" crc="84618257" ref="index"/>
+    <file name="pasted-svg-119.svg" crc="170481899" ref="index"/>
+    <file name="pasted svg 119_poster_.png" crc="4082165979" ref="index"/>
   </folder>
-  <file name="index.html" crc="408747203" seo="true" mt="1496170585905" redirect="true"/>
+  <file name="index.html" crc="51179651" seo="true" mt="1498226217876" redirect="true"/>
 </manifest>

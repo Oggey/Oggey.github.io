@@ -1,2 +1,0 @@
-# Oggey.github.io
-Portfolio
