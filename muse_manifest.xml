@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="martinsk.se" resolutions="1x" timestamp="1498226234587">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="martinsk.se" resolutions="1x" timestamp="1498302275760">
   <folder name="css">
     <file name="site_global.css" crc="452424824"/>
-    <file name="index.css" crc="3965493056" ref="index"/>
+    <file name="index.css" crc="3912287390" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -10,8 +10,8 @@
     <file name="jquery.watch.js" crc="4244854265" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="pasted-svg-119.svg" crc="170481899" ref="index"/>
-    <file name="pasted svg 119_poster_.png" crc="4082165979" ref="index"/>
+    <file name="pasted-svg-666002x642.svg" crc="4086129145" ref="index"/>
+    <file name="pasted svg 666002x642_poster_.png" crc="512242186" ref="index"/>
   </folder>
-  <file name="index.html" crc="51179651" seo="true" mt="1498226217876" redirect="true"/>
+  <file name="index.html" crc="222463636" seo="true" mt="1498302266496" redirect="true"/>
 </manifest>
